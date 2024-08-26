@@ -1,6 +1,3 @@
-Aqui está o README formatado para o projeto `pagina-interativa-com-javascript`:
-
-```markdown
 # Página Interativa com JavaScript
 
 ## Descrição
